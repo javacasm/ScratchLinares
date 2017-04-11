@@ -27,7 +27,7 @@ El objetivo del curso es presentar estas herramientas sencillas y atractivas par
 * Realizar programa sencillo con Scratch
 
 
-## Contenidos
+## [Contenidos](./Scracth.md)
 
 * Presntación de herramientas de programación visual para los más pequeños: Code.org
 * Introducción a Scratch (y alternativas como Snap)
