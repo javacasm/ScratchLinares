@@ -1,11 +1,8 @@
-# Programar Para Educar
+# Iniciación a la programación con Scratch
 
-## Curso del CEP de Granada
+## Curso del CEP de Linares
 
-## Enero de 2016
-(12,14,19,21,26 y 28 de Enero de 2016)
-
-[Calendario](./Indice.md)
+## Abril de 2017
 
 ### José Antonio Vacas @javacasm
 
