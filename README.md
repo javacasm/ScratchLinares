@@ -1,5 +1,16 @@
 # Iniciación a la programación con Scratch
 
+## Curso del CEP de Linares
+
+## Abril de 2017
+
+### José Antonio Vacas @javacasm
+
+[![CCbySA](imagenes/CCbySQ_88x31.png)](./imagenes/Licencia_CC.png)
+
+
+# Iniciación a la programación con Scratch
+
 Curso con 6 horas presenciales y  9 de trabajo online
 
 ## Justificación
