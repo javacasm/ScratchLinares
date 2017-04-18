@@ -25,7 +25,7 @@ Los programas se realizan uniendo los diferentes bloques encajables en un entorn
 
 El uso de herramientas visuales permite a los alumnos asimilar fácilmente el paradigma de la programación y poner en práctica sus ideas.
 
-Cada vez más utilizado en el entorno docente se ha mostrado como una excelente herramienta pedagógica, prueba de ello es la cantidad de experiencias disponibles en la [comunidad online](https://scratch.mit.edu/explore/projects/all).
+Cada vez más utilizado en el entorno docente se ha mostrado como una excelente [herramienta pedagógica](./contexto.md), prueba de ello es la cantidad de experiencias disponibles en la [comunidad online](https://scratch.mit.edu/explore/projects/all).
 
 
 
@@ -40,9 +40,9 @@ El objetivo del curso es presentar estas herramientas sencillas y atractivas par
 
 ## [Contenidos](./Scratch.md)
 
-* Presntación de herramientas de programación visual para los más pequeños: Code.org
-* Introducción a Scratch (y alternativas como Snap)
-* Programando con Scratch:
+* Presentación de [herramientas de programación visual para los más pequeños: Code.org](./Bloques.md)
+* Introducción a Scratch (y [alternativas como Snap](./snap.md))
+* [Programando con Scratch](./Scratch.md):
   * Personajes, disfraces, escenarios
   * Dibujando con Scratch
   * Sonidos y animaciones
