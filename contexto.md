@@ -51,6 +51,7 @@
 	* Trabajando fuera del aula
 
 Más dudas que otra cosa...
+
 ### ¿para qué sirve?
 
 * Capacidad de razonamiento
@@ -89,4 +90,4 @@ Són muchos los [estudios](http://programamos.es/evidencias-cientificas-de-los-b
   * Fomentando la **creatividad**
 * Facilita el aprendizaje del **entorno tecnológico**
 
-## [Un ejemplo](./AlhambraMagica.md)
+## [Un ejemplo: Granada Mágica](./AlhambraMagica.md)
