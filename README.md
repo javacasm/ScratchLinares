@@ -47,3 +47,5 @@ El objetivo del curso es presentar estas herramientas sencillas y atractivas par
   * Sonidos y animaciones
 
 ## [Recursos](./recursos.md)
+
+## [OpenSource](./opensource.md)
