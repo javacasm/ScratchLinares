@@ -15,9 +15,9 @@
 
 Podemos usarlo desde [acceso web](https://scratch.mit.edu/projects/editor) y como [aplicación de escritorio](https://scratch.mit.edu/scratch2download/).
 
-(Hay 2 versiones para usar offline: la 1.4 y la 2.0)
+[(Hay 2 versiones para usar offline: la 1.4 y la 2.0)](./versiones.md)
 
-Usa tecnología propietaria de Adobe (Flash), por lo podría no funcionar en todos los dispositivos
+La versión 2.0 usa tecnología propietaria de Adobe (Air), por lo podría no funcionar en todos los dispositivos
 
 Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 
