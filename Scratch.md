@@ -91,7 +91,7 @@ Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 
 
 
-# Movimientos Relativos y absolutios
+# Movimientos Relativos y absolutos
 
 ## Vamos a ver que podemos hacer casi siempre los cambios (movimientos, cambios de color,...) de dos formas:
 
