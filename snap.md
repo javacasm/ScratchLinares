@@ -1,4 +1,4 @@
-# Iniciación a la programación con Scratch
+# Iniciación a la programación con Scratch (172319GE056)
 
 ## Curso del CEP de Linares
 
@@ -8,6 +8,7 @@
 
 [![CCbySA](imagenes/CCbySQ_88x31.png)](./imagenes/Licencia_CC.png)
 
+https://github.com/javacasm/ScratchLinares
 
 
 # [Snap](http://snap.berkeley.edu/)
