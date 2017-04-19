@@ -42,9 +42,9 @@ El objetivo del curso es presentar estas herramientas sencillas y atractivas par
 * Presentación de [herramientas de programación visual para los más pequeños: Code.org](./Bloques.md)
 * Introducción a Scratch (y [alternativas como Snap](./snap.md))
 * [Programando con Scratch](./Scratch.md):
-  * Personajes, disfraces, escenarios
-  * Dibujando con Scratch
-  * Sonidos y animaciones
+  * [Dibujando con Scratch](./Scratch.md#vamos-a-dibujar)
+  * [Personajes, disfraces, escenarios](./Scratch.md#personaje)
+  * [Sonidos y animaciones](./Scratch.md#sonido)
 
 ## [Recursos](./recursos.md)
 
