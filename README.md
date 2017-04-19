@@ -27,22 +27,23 @@ El uso de herramientas visuales permite a los alumnos asimilar fácilmente el pa
 
 Cada vez más utilizado en el entorno docente se ha mostrado como una excelente [herramienta pedagógica](./contexto.md), prueba de ello es la cantidad de experiencias disponibles en la [comunidad online](https://scratch.mit.edu/explore/projects/all).
 
-
-
 ## Objetivos
 
 El objetivo del curso es presentar estas herramientas sencillas y atractivas para los alumnos como http://Code.org y Scratch  (según su edad y conocimientos)
 
 * Entender la importancia de enseñar a programar
 * Conocer herramientas de iniciación a la programación
-* Realizar programa sencillo con Scratch
+* Realizar programas sencillos con Scratch
 
 
-## [Contenidos](./Scratch.md)
+## Contenidos
 
+* [¿Por qué programar?](./contexto.md)
 * Presentación de [herramientas de programación visual para los más pequeños: Code.org](./Bloques.md)
 * Introducción a Scratch (y [alternativas como Snap](./snap.md))
 * [Programando con Scratch](./Scratch.md):
   * Personajes, disfraces, escenarios
   * Dibujando con Scratch
   * Sonidos y animaciones
+
+## [Recursos](./recursos.md)
