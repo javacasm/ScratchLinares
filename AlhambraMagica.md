@@ -26,7 +26,7 @@
 
 # ¡No!
 
-## Aprendemos a hacer, a escribir, a redactar, a explicar, a organizar, , a calcular
+## Aprendemos a hacer, a escribir, a redactar, a explicar, a organizar, a calcular
 Hacemos plástica, matemáticas, historia, lengua, ¿inglés?
 
 

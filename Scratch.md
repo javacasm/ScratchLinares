@@ -52,7 +52,7 @@ Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 
 ### Por eso tenemos que dar todos los pasos
 
-### Tendremos que decir cuando usamos el lapiz y donde empezamos a dibujar
+### Tendremos que decir cuando usamos el lápiz y donde empezamos a dibujar
 
 ## Cuadrado
 
@@ -72,7 +72,7 @@ Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 
 ## Antes de hacer otro ejemplo vamos a guardar este. Podemos hacerlo dándole nombre y también podemos descargarlo a nuestro PC
 
-### ¡¡Pero podemos hacerlo más fácil
+### ¡¡Pero podemos hacerlo más fácil¡¡
 	Vamos a repetir 4 veces:
 		1. Línea
 		2. Giro
@@ -119,7 +119,7 @@ Pueden ser:
 
 #### Podemos cambiar el aspecto de los dibujos con diferentes opciones:
 
-* Podemos cambiar el color del lápiz con las opciones de los bloques de lapiz
+* Podemos cambiar el color del lápiz con las opciones de los bloques de lápiz
 * Cambiar ancho
 
 Los parámetros tienen un rango: el color entre 0 y 200 de manera cíclica
@@ -152,7 +152,7 @@ Ejercicio: Dibujar una estralla formada por n polígonos de m lados, cada uno de
 
 ![control](./imagenes/Control.png)
 
-### Usanddo bucles repetitivos
+### Usando bucles repetitivos
 ### Ejercicio : estrella de 60 cuadrados de colores
 
 #### Nos van a permitir establecer el orden de ejecución de los bloques:

@@ -19,7 +19,7 @@ Curso con 6 horas presenciales y  9 de trabajo online
 ![Scratch](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Scratch_2.0_Screen_Hello_World.png/640px-Scratch_2.0_Screen_Hello_World.png)
 
 
-Scratch (https://scratch.mit.edu/) es un software creado por el MIT (Massachusetts Institute Technology) con el fin de enseñar a programar de un modo visual especialmente a niño y jóvenes.
+Scratch (https://scratch.mit.edu/) es un software creado por el MIT (Massachusetts Institute Technology) con el fin de enseñar a programar de un modo visual especialmente a niños y jóvenes.
 
 Los programas se realizan uniendo los diferentes bloques encajables en un entorno integrado que incluye a la vez todo lo necesario para completar el programa.
 
