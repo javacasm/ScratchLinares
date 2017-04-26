@@ -50,6 +50,8 @@
 
 [Educación 3.0](http://www.educaciontrespuntocero.com/recursos/el-proyecto-scratch-de-los-viernes-i-moviendo-el-gato/29934.html)
 
+[Ejemplos club de robotica de Granada](http://clubroboticagranada.esy.es/recursos/)
+
 
 ## Eventos
 
