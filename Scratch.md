@@ -210,6 +210,14 @@ Ejercicio: Dibujar una estralla formada por n polígonos de m lados, cada uno de
 
 
 ### Sonido
+
+### [Clones](https://wiki.scratch.mit.edu/wiki/Cloning)
+
+Se trata de crear copias de un personaje
+
+![clones](https://wiki.scratch.mit.edu/w/images/Clones.png)
+
+
 ## Ejemplos
 
 [Tutoriales de dsigno](http://programamos.es/creando-un-videojuego-paso-a-paso-con-scratch-desde-cero/)
