@@ -2,7 +2,7 @@
 
 ## Curso del CEP de Linares
 
-## Abril de 2017
+## Mayo de 2017
 
 ### José Antonio Vacas @javacasm
 
