@@ -18,5 +18,6 @@
 ## [Versión 2.0](https://scratch.mit.edu/projects/156176738/#editor)
 * [Editor offline](https://scratch.mit.edu/scratch2download/) Requiere Adobe Air
 
+## [Instalando Scratch 2.0 offline en Ubuntu](https://programamos.es/instalacion-de-scratch2-offline-en-debianubuntu/)
 
 ## Diferencias entre la versión 1.4 y 2.0
